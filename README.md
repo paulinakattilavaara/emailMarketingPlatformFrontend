@@ -1,3 +1,30 @@
+
+*glöm inte : Installera beroenden med `npm i` :)*
+
+Utvecklingsmiljöns grundrutt : http://localhost:5173
+
+## *Våra ruttter och vad dom visar:*
+
+http://localhost:5173/
+**RegisterPage**
+
+http://localhost:5173/register
+**RegisterPage**
+*Sida för att registrera sig på plattformen*
+
+http://localhost:5173/login
+**LoginPage**
+*Sida för att logga in* 
+
+http://localhost:5173/campaigns
+**CampaignListAndCreate**
+*Sida för inloggade att hantera och skapa sina olika kampanjer.*
+
+http://localhost:5173/campaign-detail
+**CampaignDetailsAndEmails**
+*Kampanjsida för specifik kampanj. här kan man se sina email tillhörande den specifika kampanjen samt skapa nya utskick*
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
